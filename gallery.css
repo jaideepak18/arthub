@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+img {
+    width: 80%;
+    max-width: 600px;
+    transition: 0.3s;
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+}
