@@ -1,0 +1,13 @@
+body { 
+    text-align: center; 
+    font-family: Arial; 
+}
+
+.b1{
+    background-color: rgb(28, 110, 217);
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
